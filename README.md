@@ -1,14 +1,8 @@
 # Hi there, I'm Mostafa! 👋 (سلام، من مصطفی هستم)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafabohlouli&show_icons=true&theme=radical" alt="Mostafa's GitHub Stats" />
-</div>
-
----
-
 ### 👨‍💻 About Me (درباره من)
-- 🔭 **Current Project:** Working on [my-web](https://mostafabohlouli.github.io/my-web/) 
-- 🌱 **Learning:** Deep diving into AI and JavaScript.
+- 🔭 **Current Project:** Working on [my-web](https://mostafabohlouli.github.io/my-web/)
+- 🌱 **Learning:** Deep diving into AI and JavaScript. (در حال یادگیری عمیق در هوش مصنوعی و جاوااسکریپت)
 - 💬 **Ask me about:** Web development or Chess! (از من درباره برنامه‌نویسی یا شطرنج بپرس)
 
 ### 🛠 Tech Stack (مهارت‌های فنی)
@@ -19,17 +13,13 @@
 
 ---
 
-<!--
-**MostafaBohlouli/MostafaBohlouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 Activity (فعالیت‌ها)
+* 🚀 **Started coding journey in 2026** (شروع یادگیری برنامه‌نویسی در سال ۲۰۲۶)
+* 💻 **Developing "My-Web" personal project** (توسعه پروژه شخصی My-Web)
+* 🤖 **AI Enthusiast & Learner** (علاقه‌مند و یادگیرنده مباحث هوش مصنوعی)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mostafabohlouli&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</div>
