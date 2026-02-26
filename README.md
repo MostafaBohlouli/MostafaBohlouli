@@ -1,11 +1,11 @@
-# Hi there, I'm Mostafa! 👋 (سلام، من مصطفی هستم)
+# Hi there, I'm Mostafa! 👋
 
-### 👨‍💻 About Me (درباره من)
+### 👨‍💻 About Me
 - 🔭 **Current Project:** Working on [my-web](https://mostafabohlouli.github.io/my-web/)
-- 🌱 **Learning:** Deep diving into AI and JavaScript. (در حال یادگیری عمیق در هوش مصنوعی و جاوااسکریپت)
-- 💬 **Ask me about:** Web development or Chess! (از من درباره برنامه‌نویسی یا شطرنج بپرس)
+- 🌱 **Learning:** Deep diving into AI and JavaScript.
+- 💬 **Ask me about:** Web development or Chess!
 
-### 🛠 Tech Stack (مهارت‌های فنی)
+### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,10 +13,10 @@
 
 ---
 
-### 📈 Activity (فعالیت‌ها)
-* 🚀 **Started coding journey in 2026** (شروع یادگیری برنامه‌نویسی در سال ۲۰۲۶)
-* 💻 **Developing "My-Web" personal project** (توسعه پروژه شخصی My-Web)
-* 🤖 **AI Enthusiast & Learner** (علاقه‌مند و یادگیرنده مباحث هوش مصنوعی)
+### 📈 Activity
+* 🚀 **Started coding journey in 2026**
+* 💻 **Developing "My-Web" personal project**
+* 🤖 **AI Enthusiast & Learner**
 
 ---
 
